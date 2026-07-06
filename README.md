@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221%2C35:2d1b4e%2C70:00c2d1%2C100:ff2079&height=180&section=header&text=Aditya%20Rawat&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20and%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5faff&animation=fadeIn" />
-  <img alt="Aditya Rawat" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2d1b4e,70:00c2d1,100:ff2079&height=180&section=header&text=Aditya%20Rawat&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20and%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5faff&animation=fadeIn" />
-</picture>
+<img alt="Aditya Rawat — computer_vision + machine_learning" src="https://raw.githubusercontent.com/aditya0701/aditya0701/main/assets/banner.svg" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
