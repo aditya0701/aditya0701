@@ -1,8 +1,14 @@
 <div align="center">
 
-# Aditya Rawat
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090c16,100:212842&height=180&section=header&text=Aditya%20Rawat&fontColor=ffb459&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=c4c8e0&animation=fadeIn" />
+  <img alt="Aditya Rawat" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f6fa,100:e5e7f4&height=180&section=header&text=Aditya%20Rawat&fontColor=c96a12&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=4a5170&animation=fadeIn" />
+</picture>
 
-**Computer Vision & Machine Learning** · M.Sc. Data Science, RWTH Aachen · Aachen, Germany
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=FFB459&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
+  <img alt="Building autonomous LLM pipelines · Fine-tuning foundation models for microscopy · M.Sc. Data Science @ RWTH Aachen" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=C96A12&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
+</picture>
 
 M.Sc. Data Science candidate focused on computer vision and foundation models. I build reproducible deep-learning pipelines for scientific imaging, from fine-tuning segmentation models on custom 3D microscopy data to shipping the tools that put them in front of real end users, and LLM-driven pipelines that run unattended in production.
 
@@ -52,6 +58,22 @@ Every morning, an unattended GitHub Actions job collects English tech news, filt
 **Data** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square)
 
 **Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![napari](https://img.shields.io/badge/-napari-fae61f?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=0E1220&stroke=212842&ring=FF9933&fire=FFB459&currStreakLabel=FFB459&sideLabels=B7BCDB&currStreakNum=EEF0FB&sideNums=EEF0FB&dates=7D84AB" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=FFFFFF&stroke=D7DAE8&ring=C96A12&fire=C96A12&currStreakLabel=C96A12&sideLabels=4A5170&currStreakNum=12141F&sideNums=12141F&dates=7D84A3" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya0701/aditya0701/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aditya0701/aditya0701/output/snake.svg" />
+</picture>
+
+</div>
 
 ---
 
