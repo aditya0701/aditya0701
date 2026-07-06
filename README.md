@@ -41,7 +41,7 @@ Fully reproducible deep-learning pipeline segmenting and quantifying synaptic ma
 
 Every morning, an unattended GitHub Actions job collects English tech news, filters out job listings and SEO spam, then writes an original Hindi article per story through a 3-stage LLM pipeline (research → editorial strategy → prose), not machine translation. Entity knowledge cache, embedding-based story deduplication, zero hosting cost.
 
-[`Case Study`](https://claude.ai/code/artifact/8dc20399-2ae9-46d7-9ef4-6672045f655d) · [`Live Edition`](https://aditya0701.github.io/Local_news_aggregator/) · [`GitHub`](https://github.com/aditya0701/Local_news_aggregator)
+[`Case Study`](https://aditya0701.github.io/Protfolio_page/case-study/techdrishti) · [`Live Edition`](https://aditya0701.github.io/Local_news_aggregator/) · [`GitHub`](https://github.com/aditya0701/Local_news_aggregator)
 
 </td>
 </tr>
