@@ -1,20 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:151a2c,50:1f2e7a,100:c96a12&height=180&section=header&text=Aditya%20Rawat&fontColor=f7f7fc&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5e7f4&animation=fadeIn" />
-  <img alt="Aditya Rawat" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f6fa,100:e5e7f4&height=180&section=header&text=Aditya%20Rawat&fontColor=c96a12&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=4a5170&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2d1b4e,70:00c2d1,100:ff2079&height=180&section=header&text=Aditya%20Rawat&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5faff&animation=fadeIn" />
+  <img alt="Aditya Rawat" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2d1b4e,70:00c2d1,100:ff2079&height=180&section=header&text=Aditya%20Rawat&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5faff&animation=fadeIn" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=FFB459&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
-  <img alt="Building autonomous LLM pipelines · Fine-tuning foundation models for microscopy · M.Sc. Data Science @ RWTH Aachen" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=C96A12&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
+  <img alt="Building autonomous LLM pipelines · Fine-tuning foundation models for microscopy · M.Sc. Data Science @ RWTH Aachen" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=7B2FF7&center=true&vCenter=true&width=560&lines=Building+autonomous+LLM+pipelines;Fine-tuning+foundation+models+for+microscopy;M.Sc.+Data+Science+%40+RWTH+Aachen" />
 </picture>
 
 M.Sc. Data Science candidate focused on computer vision and foundation models. I build reproducible deep-learning pipelines for scientific imaging, from fine-tuning segmentation models on custom 3D microscopy data to shipping the tools that put them in front of real end users, and LLM-driven pipelines that run unattended in production.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Faditya0701%2FProtfolio__page-212842?style=flat-square)](https://github.com/aditya0701/Protfolio_page)
+[![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Faditya0701%2FProtfolio__page-2D1B4E?style=flat-square)](https://github.com/aditya0701/Protfolio_page)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-aditya0701-FFD21E?style=flat-square)](https://huggingface.co/aditya0701)
-[![Email](https://img.shields.io/badge/Email-aditya.rawat%40rwth--aachen.de-c96a12?style=flat-square)](mailto:aditya.rawat@rwth-aachen.de)
+[![Email](https://img.shields.io/badge/Email-aditya.rawat%40rwth--aachen.de-7B2FF7?style=flat-square)](mailto:aditya.rawat@rwth-aachen.de)
 
 </div>
 
@@ -64,8 +64,8 @@ Every morning, an unattended GitHub Actions job collects English tech news, filt
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=0E1220&stroke=212842&ring=FF9933&fire=FFB459&currStreakLabel=FFB459&sideLabels=B7BCDB&currStreakNum=EEF0FB&sideNums=EEF0FB&dates=7D84AB" />
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=FFFFFF&stroke=D7DAE8&ring=C96A12&fire=C96A12&currStreakLabel=C96A12&sideLabels=4A5170&currStreakNum=12141F&sideNums=12141F&dates=7D84A3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=0D0221&stroke=2D1B4E&ring=00E5FF&fire=FF2079&currStreakLabel=00E5FF&sideLabels=B39DDB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B39DDB" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=FFFFFF&stroke=E0D4F7&ring=7B2FF7&fire=FF2079&currStreakLabel=7B2FF7&sideLabels=4A4063&currStreakNum=1A0B2E&sideNums=1A0B2E&dates=6B5B95" />
 </picture>
 
 <picture>
