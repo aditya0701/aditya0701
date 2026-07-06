@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090c16,100:212842&height=180&section=header&text=Aditya%20Rawat&fontColor=ffb459&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=c4c8e0&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:151a2c,50:1f2e7a,100:c96a12&height=180&section=header&text=Aditya%20Rawat&fontColor=f7f7fc&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=e5e7f4&animation=fadeIn" />
   <img alt="Aditya Rawat" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f6fa,100:e5e7f4&height=180&section=header&text=Aditya%20Rawat&fontColor=c96a12&fontSize=42&fontAlignY=38&desc=Computer%20Vision%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=4a5170&animation=fadeIn" />
 </picture>
 
@@ -26,18 +26,18 @@ M.Sc. Data Science candidate focused on computer vision and foundation models. I
 <tr>
 <td width="50%" valign="top">
 
-**🔬 Microglomeruli Segmentation**
+**🔬 Seeing What the Microscope Misses**
 *Master's thesis · RWTH Aachen*
 
-Fully reproducible deep-learning pipeline segmenting and quantifying synaptic markers in confocal microscopy of the *Drosophila* mushroom body calyx: MicroSAM fine-tuned and benchmarked head-to-head against Cellpose 3D, nnU-Net v2, StarDist 3D, and SwinUNETR across multiple preprocessing variants, evaluated with physical-volume-aware instance metrics.
+A fully reproducible deep-learning pipeline that finds and measures synaptic boutons buried in 3D confocal scans of the *Drosophila* brain: MicroSAM fine-tuned and benchmarked head-to-head against Cellpose 3D, nnU-Net v2, StarDist 3D, and SwinUNETR across multiple preprocessing variants, evaluated with physical-volume-aware instance metrics.
 
 [`GitHub`](https://github.com/aditya0701/Image_segmentation_thesis) · [`Model weights`](https://huggingface.co/aditya0701/Drosophilla_melanogaster_Bouton_3d_segmentation) · [`BoutonViewer (companion app)`](https://github.com/aditya0701/Fluorescent-Microscopy-Image-Segmentation-and-Quantification)
 
 </td>
 <td width="50%" valign="top">
 
-**📰 TechDrishti (टेकदृष्टि)**
-*Autonomous Hindi tech-journalism pipeline*
+**📰 An Unattended Newsroom, Written in Hindi**
+*टेकदृष्टि — TechDrishti*
 
 Every morning, an unattended GitHub Actions job collects English tech news, filters out job listings and SEO spam, then writes an original Hindi article per story through a 3-stage LLM pipeline (research → editorial strategy → prose), not machine translation. Entity knowledge cache, embedding-based story deduplication, zero hosting cost.
 
