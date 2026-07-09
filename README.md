@@ -61,14 +61,11 @@ Every morning, an unattended GitHub Actions job collects English tech news, filt
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=0D0221&stroke=2D1B4E&ring=00E5FF&fire=FF2079&currStreakLabel=00E5FF&sideLabels=B39DDB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B39DDB" />
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=aditya0701&hide_border=true&background=FFFFFF&stroke=E0D4F7&ring=7B2FF7&fire=FF2079&currStreakLabel=7B2FF7&sideLabels=4A4063&currStreakNum=1A0B2E&sideNums=1A0B2E&dates=6B5B95" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya0701/aditya0701/output/snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/aditya0701/aditya0701/output/snake.svg" />
 </picture>
+
+![Profile views](https://komarev.com/ghpvc/?username=aditya0701&style=flat-square&color=00E5FF&label=terminal+visits)
 
 </div>
 
