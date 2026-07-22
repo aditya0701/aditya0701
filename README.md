@@ -9,7 +9,7 @@
 
 M.Sc. Data Science candidate focused on computer vision and foundation models. I build reproducible deep-learning pipelines for scientific imaging, from fine-tuning segmentation models on custom 3D microscopy data to shipping the tools that put them in front of real end users, and LLM-driven pipelines that run unattended in production.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-github.com%2Faditya0701%2FPortfolio__page-2D1B4E?style=flat-square)](https://aditya0701.github.io/Portfolio_page/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aditya0701.github.io-2D1B4E?style=flat-square)](https://aditya0701.github.io/Portfolio_page/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-aditya0701-FFD21E?style=flat-square)](https://huggingface.co/aditya0701)
 [![Email](https://img.shields.io/badge/Email-aditya.rawat%40rwth--aachen.de-7B2FF7?style=flat-square)](mailto:aditya.rawat@rwth-aachen.de)
 
@@ -23,7 +23,7 @@ M.Sc. Data Science candidate focused on computer vision and foundation models. I
 <tr>
 <td width="50%" valign="top">
 
-**🔬 Seeing What the Microscope Misses**  
+**🔬 3D Instance Segmentation of Synaptic Boutons**  
 *Master's thesis · RWTH Aachen*
 
 A fully reproducible deep-learning pipeline that finds and measures synaptic boutons buried in 3D confocal scans of the *Drosophila* brain: MicroSAM fine-tuned and benchmarked head-to-head against Cellpose 3D, nnU-Net v2, StarDist 3D, and SwinUNETR across multiple preprocessing variants, evaluated with physical-volume-aware instance metrics.
@@ -33,10 +33,10 @@ A fully reproducible deep-learning pipeline that finds and measures synaptic bou
 </td>
 <td width="50%" valign="top">
 
-**📰 An Unattended Newsroom, Written in Hindi**  
+**📰 Autonomous Multi-Stage LLM Content Pipeline**  
 *टेकदृष्टि — TechDrishti*
 
-Every morning, an unattended GitHub Actions job collects English tech news, filters out job listings and SEO spam, then writes an original Hindi article per story through a 3-stage LLM pipeline (research → editorial strategy → prose), not machine translation. Entity knowledge cache, embedding-based story deduplication, zero hosting cost.
+A self-running production pipeline: every morning a scheduled GitHub Actions job ingests English tech news, filters out job listings and SEO spam, then generates an original Hindi article per story through a 3-stage LLM chain (research → editorial strategy → prose) — not machine translation. Features an entity knowledge cache, embedding-based story deduplication, and zero hosting cost.
 
 [`Case Study`](https://aditya0701.github.io/Portfolio_page/case-study/techdrishti) · [`Live Edition`](https://aditya0701.github.io/Local_news_aggregator/) · [`GitHub`](https://github.com/aditya0701/Local_news_aggregator)
 
