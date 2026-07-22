@@ -26,7 +26,7 @@ M.Sc. Data Science candidate focused on computer vision and foundation models. I
 **🔬 3D Instance Segmentation of Synaptic Boutons**  
 *Master's thesis · RWTH Aachen*
 
-A fully reproducible deep-learning pipeline that finds and measures synaptic boutons buried in 3D fluorescent confocal microscopy scans of the *Drosophila* brain. I fine-tuned **MicroSAM** — the Segment Anything foundation model, built on a **Vision Transformer** image encoder — and, beyond it, trained a **state-of-the-art SwinUNETR 3D transformer**, benchmarking both head-to-head against **nnU-Net v2** and **Cellpose 3D**. Every model was fine-tuned on custom data across multiple preprocessing variants and evaluated with physical-volume-aware instance metrics.
+A fully reproducible deep-learning pipeline that finds and measures synaptic boutons buried in 3D fluorescent confocal microscopy scans of the *Drosophila* brain. I fine-tuned **four architectures on custom data** and benchmarked them head-to-head: **MicroSAM** (the Segment Anything foundation model, built on a **Vision Transformer** image encoder), the **state-of-the-art SwinUNETR 3D transformer**, **nnU-Net v2**, and **Cellpose 3D** — all trained across multiple preprocessing variants and evaluated with physical-volume-aware instance metrics. The fine-tuned **MicroSAM** model came out on top, and is the model this thesis proposes.
 
 [`GitHub`](https://github.com/aditya0701/Image_segmentation_thesis) · [`Model weights`](https://huggingface.co/aditya0701/Drosophilla_melanogaster_Bouton_3d_segmentation) · [`BoutonViewer (companion app)`](https://github.com/aditya0701/Fluorescent-Microscopy-Image-Segmentation-and-Quantification)
 
